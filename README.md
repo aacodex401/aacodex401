@@ -18,7 +18,7 @@ I help AI startups ship products — not decks, not strategies, actual products 
 
 ## 🔨 Currently Building
 
-**[Abittus](https://github.com/aurascore)** — AI wellness platform with multi-agent coaching
+**[Abittus](http://www.abittus.com)** — AI wellness platform with multi-agent coaching
 - 3 specialized AI coaches with consensus voting architecture
 - 847 waitlist signups (pre-launch)
 - Integrations: Strava, Apple Health, Garmin
