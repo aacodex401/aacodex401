@@ -1,70 +1,57 @@
-# 👋 Hi, I’m Anderson Araújo
+# Hey, I'm Anderson 👋
 
-**Product Technologist | System Thinker | Builder of Impactful AI-Driven Products**
-
----
-
-### 🧠 What I Do
-
-I build software systems that turn deep tech into real-world results. With 18+ years across AI, ML, and enterprise-scale platforms, I operate at the intersection of **system architecture**, **product leadership**, and **scientific experimentation**.
-
-My work has:
-
-- Delivered **hundred of millions dollars in business impact** through AI/ML products in production
-- Shipped **products used by millions**, from early PoCs to enterprise-grade systems
-- Translated **research into revenue** — from ML models to full-stack deployment
-- Led **cross-functional teams** from 0→1 and 1→n in startups and scaled orgs
+**I turn AI experiments into revenue.** Fractional CPO for AI startups who need product leadership with skin in the game.
 
 ---
 
-### 🔬 My Approach
+## 🎯 What I Do
 
-Every product starts as a hypothesis. I treat tech like an experiment — testable, measurable, and grounded in outcomes.
+I help AI startups ship products — not decks, not strategies, actual products that users pay for.
 
-1. **Problem First** → Is this worth solving?
-2. **Hypothesis Design** → What’s the smallest thing we can test?
-3. **System Build** → What scales *and* adapts?
-4. **Signal Measurement** → What proves it's working?
-5. **Iteration** → What unlocks 10x more?
-
-This method guides everything I ship — from PoCs to production.
+**Track record:**
+- 📱 Shipped products used by **millions** (mobile apps, enterprise platforms)
+- 💰 Built AI models that reduced **$300M in debt** for financial services
+- 🚀 Grew **0→1 products** from PoC to production at scale
+- 🧠 18 years across AI/ML, product, and engineering leadership
 
 ---
 
-### 🧰 My Stack
+## 🔨 Currently Building
 
-I go deep where it matters, and stay pragmatic everywhere else.
+**[Abittus](https://github.com/aurascore)** — AI wellness platform with multi-agent coaching
+- 3 specialized AI coaches with consensus voting architecture
+- 847 waitlist signups (pre-launch)
+- Integrations: Strava, Apple Health, Garmin
 
-- **AI/ML**: Python, PyTorch, LangChain, OpenAI APIs, Retrieval-Augmented Generation (RAG), LLM Ops
-- **Systems**: FastAPI, Kafka, Postgres, Redis, Docker, Airflow
-- **Product**: Experimentation frameworks, data-driven roadmaps, KPI design, A/B testing
-- **Infra**: AWS, GCP, CI/CD, Terraform, Kubernetes (when it’s worth it)
-
----
-
-### 🚧 Recent Work (WIP Repos → Shipped Products)
-
-- `llm-signal-lab/` – Rapid prototyping space for testing prompt pipelines, RAG stacks, and evaluation harnesses.
-- `news-query-llms/` – Lightweight framework for hypothesis-driven product iteration.
-- `aichron/` – Proof-of-Concept | AI-powered chat built for clarity, empathy, and scientific grounding
-
-*(More in pinned repos)*
+*Building in public to prove I practice what I preach.*
 
 ---
 
-### 🛰️ Operating Principles
+## 🛠 My Stack
 
-- **Signal over noise** – every commit, every metric, every meeting.
-- **Build with proof** – ship experiments, not opinions.
-- **Systems > hacks** – architecture scales, heroics don't.
-- **Be the glue** – products win when tech, design, and business connect.
+**AI/ML:** Python, PyTorch, LangChain, RAG, LLM Ops, Multi-Agent Systems  
+**Systems:** FastAPI, Kafka, Postgres, Redis, Docker  
+**Product:** Experimentation frameworks, KPI design, 0→1 methodology  
+**Infra:** AWS, GCP, Kubernetes (when it's worth it)
+
+---
+
+## 🤝 Work With Me
+
+I take on **2-3 AI startups at a time** as Fractional CPO — embedded leadership, not consulting.
+
+**Best fit if you:**
+- Have AI experiments but can't ship products
+- Need someone who codes AND talks to investors
+- Want product leadership without full-time hire
+
+**How I work:**
+- Equity/partnership model (aligned incentives)
+- Hands-on building, not just advising
+- Direct access, async-first
+
+📧 **aacodex401@gmail.com** · 𝕏 **[@aacodex401](https://x.com/aacodex401)**
 
 ---
 
-### 📬 Let’s Connect
-
-If you're working on something that blends **AI, product systems, and real-world complexity**, I’d love to hear from you.
-
-DMs open. PRs welcome. Results matter.
-
----
+*"Products win when tech, design, and business connect."*
