@@ -1,6 +1,6 @@
 # Hey, I'm Anderson 👋
 
-**I turn AI experiments into revenue.** Fractional CPO for AI startups who need product leadership with skin in the game.
+**I turn AI experiments into revenue.** Fractional Product Expert for AI startups who need product leadership with skin in the game.
 
 ---
 
